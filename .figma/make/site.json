@@ -1,0 +1,11 @@
+{
+  "title": "Rauf's creative web portfolio",
+  "description": "Showcases a personalized web portfolio replicating a provided PDF design, highlighting professional photos and images to enhance user presentation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
